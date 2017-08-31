@@ -1,3 +1,9 @@
+This Fork fixes the PropTypes dependency issue that is still not fixed in the author's repository.
+Using this until it is fixed.
+
+You can track the PR and Issue here:
+https://github.com/ldn0x7dc/react-native-view-transformer/issues/13
+
 # react-native-view-transformer
 
  A pure JavaScript RN component that makes **ANY** views transformable using gestures like pinch, double tap or pull.

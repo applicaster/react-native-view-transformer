@@ -1,3 +1,4 @@
+## NOTE:
 This Fork fixes the PropTypes dependency issue that is still not fixed in the author's repository.
 Using this until it is fixed.
 
